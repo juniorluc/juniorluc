@@ -46,7 +46,3 @@ Sou um estudante focado em desenvolvimento Back-End utilizando Python. Atualment
 - GitHub: https://github.com/juniorluc
 - LinkedIn: https://www.linkedin.com/in/junior-medeiros-b17a44224/
 - E-mail: juniormedeirosluce@gmail.com
-
----
-
-⭐ Sempre aprendendo algo novo e compartilhando minha evolução no mundo do desenvolvimento Back-End.
