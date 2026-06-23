@@ -39,8 +39,6 @@ Sou um estudante focado em desenvolvimento Back-End utilizando Python. Atualment
 
 1. https://github.com/juniorluc/calculadora-terminal
 
-### 🌐 Back-End
-
 ---
 
 ## 📫 Contato
