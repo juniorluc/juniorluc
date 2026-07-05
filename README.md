@@ -1,6 +1,6 @@
 # Olá, eu sou o Junior Medeiros
 
-🎓 Estudante de Programação  
+🎓 Estudante de Programação na Alura
 🐍 Aprendendo Python para Desenvolvimento Back-End  
 
 ---
@@ -11,7 +11,7 @@ Sou um estudante focado em desenvolvimento Back-End utilizando Python. Atualment
 
 ### 📚 Atualmente estudando
 
-- Python
+- Python e seus fundamentos
 - Programação Orientada a Objetos (POO)
 - Git e GitHub
   
