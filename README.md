@@ -1,6 +1,6 @@
 # Olá, eu sou o Junior Medeiros
 
-🎓 Estudante de Programação na Alura
+🎓 Estudante de Programação na Alura\
 🐍 Aprendendo Python para Desenvolvimento Back-End  
 
 ---
